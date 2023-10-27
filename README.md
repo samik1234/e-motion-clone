@@ -1,3 +1,8 @@
+
+
+BUILD YOUR OWN NOTION APPLICATION WITH NEXTJS 13, CONVEX , CLERK, REACT, SHADCN-UI AND DEPLOY ON VERCEL
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
