@@ -51,7 +51,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-Both need to run to live 
+Both lines need to run for the live code and deployment process 
+
+
+
+
+
 For run in server : npm run build and 
                     npx convex dev 
 
