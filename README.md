@@ -2,6 +2,7 @@
 
 BUILD YOUR OWN NOTION APPLICATION WITH NEXTJS 13, CONVEX , CLERK, REACT, 
 SHADCN-UI AND DEPLOY ON VERCEL. 
+All with proper notion-style editor, cover images, nested documents, publishing documents to public, real-time database and more.
 
 
 
