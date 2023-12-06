@@ -1,5 +1,13 @@
 
 
+
+
+
+![tinywow_change_bg_photo_37542756](https://github.com/samik1234/e-motion-clone/assets/82882143/cff1aff9-bb4d-42e6-ae3a-b50f78cb3bec)
+
+
+
+
 BUILD YOUR OWN NOTION APPLICATION WITH NEXTJS 13, CONVEX , CLERK, REACT, 
 SHADCN-UI AND DEPLOY ON VERCEL. 
 All with proper notion-style editor, cover images, nested documents, publishing documents to public, real-time database and more.
