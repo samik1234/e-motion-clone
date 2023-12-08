@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 BUILD YOUR OWN NOTION APPLICATION WITH NEXTJS 13, CONVEX , CLERK, REACT, 
 SHADCN-UI AND DEPLOY ON VERCEL. 
 All with proper notion-style editor, cover images, nested documents, publishing documents to public, real-time database and more.
@@ -17,6 +12,12 @@ All with proper notion-style editor, cover images, nested documents, publishing 
 
 
 
+
+
+
+
+
+![OIP (2)](https://github.com/samik1234/e-motion-clone/assets/82882143/b59eff24-1a13-4063-a260-28ae150ffc8a)
 
 
 
