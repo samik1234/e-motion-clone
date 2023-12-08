@@ -3,7 +3,6 @@
 
 
 
-![tinywow_change_bg_photo_37542756](https://github.com/samik1234/e-motion-clone/assets/82882143/cff1aff9-bb4d-42e6-ae3a-b50f78cb3bec)
 
 
 
