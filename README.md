@@ -2,7 +2,7 @@
 
 
 ## Project 
-  Build your own notion clone with NEXTJS 13, CONVEX , CLERK, REACT, SHADCN-UI AND Deploy on Vercel. 
+  Build your own notion clone with NEXTJS 13, CONVEX , CLERK, REACT, SHADCN-UI And  Deploy on Vercel. 
   All with proper notion-style editor, cover images, nested documents, publishing documents to public, real-time database and more.
 
 
