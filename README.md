@@ -16,7 +16,6 @@
 
 
 
-![OIP (2)](https://github.com/samik1234/e-motion-clone/assets/82882143/b59eff24-1a13-4063-a260-28ae150ffc8a)
 
 
 
@@ -25,10 +24,6 @@ Learn some new features and libraries.
 
 
 
-
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
