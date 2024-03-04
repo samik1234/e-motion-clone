@@ -14,6 +14,9 @@
 
 
 
+![e-motion vercel app](https://github.com/samik1234/e-motion-clone/assets/82882143/2c21263e-0757-4e16-97aa-60d4de4178e2)
+
+
 
 
 
@@ -39,7 +42,6 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
 
@@ -47,9 +49,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-
-
-![e-motion vercel app](https://github.com/samik1234/e-motion-clone/assets/82882143/2c21263e-0757-4e16-97aa-60d4de4178e2)
 
 
 
@@ -58,11 +57,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 Both lines need to run for the live code and deployment process 
-
-
-
-
-
 For run in server : npm run build and 
                     npx convex dev 
 
