@@ -22,7 +22,6 @@
 
 
 
-Learn some new features and libraries.
 
 
 
