@@ -27,28 +27,13 @@
 
 
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 
 
 
 
 
-
-
-
+![Screenshot_21-3-2024_20217_e-motion vercel app](https://github.com/samik1234/e-motion-clone/assets/82882143/5b1a2d09-1128-4170-9542-803909fc7d15)
 
 
 
